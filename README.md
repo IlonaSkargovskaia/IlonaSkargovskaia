@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Ilona Skargovskaya
 
-🌱 I'm currently learning in the Developments.institute to the Full Stack Developer
+🌱 I'm currently learning in the Developers Institute to the Full Stack Developer
 
 <a href="https://www.linkedin.com/in/ilona-skargovskaya/">My Linkedin profile
 <img src="![linkedin](https://user-images.githubusercontent.com/92672160/216148885-37d4d025-d280-4d73-b623-87db24bc7b6b.png)"></a>
