@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Ilona Skargovskaya
 
-🌱 I'm currently student at Developers Institute as Full Stack Developer
+I am a qualified and professional frontend developer with 5 years of experience in designing and laying out websites. I also have a background in Python and JavaScript, enabling me to create dynamic and interactive web experiences. My combination of creative and analytical skills allows me to balance aesthetic appeal with functional efficiency. I am a team player who pays close attention to detail. 
 
 <a href="https://www.linkedin.com/in/ilona-skargovskaya/">LinkedIn</a>
 
@@ -20,10 +20,8 @@
   
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IlonaSkargovskaya&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlonaSkargovskaya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlonaSkargovskaya&theme=monokai&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlonaSkargovskaya&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **IlonaSkargovskaya/IlonaSkargovskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
