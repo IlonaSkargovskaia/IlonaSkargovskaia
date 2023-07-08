@@ -2,7 +2,6 @@
 
 I am a qualified and professional frontend developer with 5 years of experience in designing and laying out websites. I also have a background in Python and JavaScript, enabling me to create dynamic and interactive web experiences. My combination of creative and analytical skills allows me to balance aesthetic appeal with functional efficiency. I am a team player who pays close attention to detail. 
 
-<a href="https://www.linkedin.com/in/ilona-skargovskaya/">LinkedIn</a>
 
 <h3>Skills and tools: </h3>
 <div>
