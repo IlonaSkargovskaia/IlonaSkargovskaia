@@ -1,12 +1,11 @@
 ### Hi there 👋 my name is Ilona Skargovskaya
 
-I am an experienced frontend developer with a strong background in designing and building websites. Over the course of five years, I have honed my skills in creating visually appealing layouts and implementing interactive elements using Python and JavaScript. I take pride in my attention to detail and ability to balance aesthetics with functionality. As a team player, I work collaboratively to deliver high-quality results.
+I am a qualified and professional frontend developer with 5 years of experience in designing and laying out websites. I also have a background in Python and JavaScript, enabling me to create dynamic and interactive web experiences. My combination of creative and analytical skills allows me to balance aesthetic appeal with functional efficiency. I am a team player who pays close attention to detail. 
 
 
 <h3>Skills and tools: </h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
