@@ -18,8 +18,8 @@ I am a qualified and professional frontend developer with 5 years of experience 
   
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlonaSkargovskaya&theme=monokai&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlonaSkargovskaya&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlonaSkargovskaia&theme=monokai&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlonaSkargovskaia&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **IlonaSkargovskaya/IlonaSkargovskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
